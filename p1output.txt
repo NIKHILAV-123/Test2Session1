@@ -1,1 +1,14 @@
 
+ gcc -g p1original.c -lm
+ ./a.out
+Enter the values of x1,y1,x2,y2
+4
+6
+2
+5
+the distance between the points (4.000000,6.000000) and (2.000000,5.000000) is 2.236068
+ 
+
+
+
+
